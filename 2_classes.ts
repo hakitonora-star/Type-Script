@@ -21,8 +21,8 @@ class Product {
 
     }
 }
-const p1=new Product("Iphone","Phone",1800000);
-p1.setPrice(50);
+const p1=new Product("Iphone","Phone",1700000);
+p1.setPrice(30);
 
 p1.display();
 console.log(p1);
